@@ -1,11 +1,11 @@
 {
-  "Signature Cocktails": [
-    { "id": 1, "name": "Angie's Gin Sour", "price": "€11.75" },
-    { "id": 2, "name": "Expresso Martini", "price": "€11.75" },
-    { "id": 3, "name": "Daisy", "price": "€11.75" },
-    { "id": 4, "name": "Cinnamon Whiskey Sour", "price": "€13.75" },
-    { "id": 5, "name": "Old Fashioned", "price": "€11.75" },
-    { "id": 6, "name": "Pornstar Martini", "price": "€14.75" },
+  "Shawarma": [
+    { "id": 1, "name": "Chicken Shawarma", "price": "€11.75" },
+    { "id": 2, "name": "Chicken Shawarma L", "price": "€11.75" },
+    { "id": 3, "name": "Chicken Shawarma Arabi", "price": "€11.75" },
+    { "id": 4, "name": "Meat Shawarma", "price": "€13.75" },
+    { "id": 5, "name": "Meat Shawarma L", "price": "€11.75" },
+    { "id": 6, "name": "Meat Shawarma Arabi", "price": "€14.75" },
     { "id": 7, "name": "Margarita", "price": "€13.50" },
     { "id": 8, "name": "Amaretto Sour", "price": "€13.50" },
     { "id": 9, "name": "Mai Tai", "price": "€11.50" },
