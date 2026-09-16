@@ -15,49 +15,38 @@
     { "id": 13, "name": "Mojito", "price": "€13.75" }
   ],
 
-  "Beers & Ciders": {
-    "Draught": [
-      { "id": 14, "name": "Guinness", "price": "€6.40" },
-      { "id": 15, "name": "Heineken", "price": "€7.00" },
-      { "id": 16, "name": "Peroni", "price": "€6.80" },
-      { "id": 17, "name": "Hop House 13", "price": "€6.80" }
-    ],
-    "Bottled": [
-      { "id": 8, "name": "Birra Moretti", "price": "€5.90" },
-      { "id": 9, "name": "Peroni", "price": "€6.20" },
-      { "id": 10, "name": "Heineken", "price": "€7.00" }
-    ],
-    "Ciders": [
-      { "id": 11, "name": "Bulmers", "price": "€5.80" },
-      { "id": 12, "name": "Kopparberg Strawberry & Lime", "price": "€5.80" }
-    ],
-    "Non-Alcoholic": [
-      { "id": 13, "name": "Heineken 0.0", "price": "€4.80" },
-      { "id": 14, "name": "Peroni 0.0", "price": "€4.80" }
-    ]
-  },
+  "Draught Beers": [
+    { "id": 14, "name": "Guinness", "price": "€6.40" },
+    { "id": 15, "name": "Heineken", "price": "€7.00" },
+    { "id": 16, "name": "Peroni", "price": "€6.80" },
+    { "id": 17, "name": "Hop House 13", "price": "€6.80" }
+  ],
 
-  "Whiskeys": {
-    "Irish": [
-      { "id": 10, "name": "Jameson", "price": "€8.00" },
-      { "id": 11, "name": "Redbreast 12", "price": "€10.50" }
-    ],
-    "Scotch": [
-      { "id": 12, "name": "Johnnie Walker Black", "price": "€9.50" }
-    ],
-    "USA": [
-      { "id": 13, "name": "Jack Daniel’s", "price": "€9.00" }
-    ]
-  },
+  "Bottled Beers & Ciders": [
+    { "id": 18, "name": "Birra Moretti", "price": "€5.90" },
+    { "id": 19, "name": "Peroni", "price": "€6.20" },
+    { "id": 20, "name": "Heineken", "price": "€7.00" },
+    { "id": 21, "name": "Bulmers", "price": "€5.80" },
+    { "id": 22, "name": "Kopparberg Strawberry & Lime", "price": "€5.80" },
+    { "id": 23, "name": "Heineken 0.0", "price": "€4.80" },
+    { "id": 24, "name": "Peroni 0.0", "price": "€4.80" }
+  ],
+
+  "Whiskeys": [
+    { "id": 25, "name": "Jameson (Irish)", "price": "€8.00" },
+    { "id": 26, "name": "Redbreast 12 (Irish)", "price": "€10.50" },
+    { "id": 27, "name": "Johnnie Walker Black (Scotch)", "price": "€9.50" },
+    { "id": 28, "name": "Jack Daniel’s (USA)", "price": "€9.00" }
+  ],
 
   "Vodkas, Gins & Rums": [
-    { "id": 14, "name": "Absolut Vodka", "price": "€7.00" },
-    { "id": 15, "name": "Gordon’s Gin", "price": "€7.50" },
-    { "id": 16, "name": "Captain Morgan Rum", "price": "€8.00" }
+    { "id": 29, "name": "Absolut Vodka", "price": "€7.00" },
+    { "id": 30, "name": "Gordon’s Gin", "price": "€7.50" },
+    { "id": 31, "name": "Captain Morgan Rum", "price": "€8.00" }
   ],
 
   "Liqueurs": [
-    { "id": 17, "name": "Baileys", "price": "€7.00" },
-    { "id": 18, "name": "Cointreau", "price": "€8.00" }
+    { "id": 32, "name": "Baileys", "price": "€7.00" },
+    { "id": 33, "name": "Cointreau", "price": "€8.00" }
   ]
 }
